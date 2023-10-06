@@ -37,6 +37,8 @@ theme_config:
     title_blog: Blog
     title_old_projects: Old Projects
 
+soopr:
+  publish_token: "pt_5f316e818ea8f398d0920bb8629c9436" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
