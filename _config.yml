@@ -43,7 +43,7 @@ soopr:
 highlighter: rouge
 
 sass:
-  style: :compressed
+  style: expanded
 
 plugins:
   - jekyll-feed
